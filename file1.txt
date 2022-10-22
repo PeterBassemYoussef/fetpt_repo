@@ -6,3 +6,4 @@ Line 1 Feature 1
 
 Line 1 on Test Branch
 Line 2 on Test Branch
+Line 3 on Test Branch after "First commit on test_remote_repo"
